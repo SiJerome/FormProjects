@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2019\Form_Projects\DelosSantos_Sumamtive2\DataHelper\bin\Debug\DataHelper.dll
+D:\Documents\Visual Studio 2019\Form_Projects\DelosSantos_Sumamtive2\DataHelper\bin\Debug\DataHelper.pdb
+D:\Documents\Visual Studio 2019\Form_Projects\DelosSantos_Sumamtive2\DataHelper\obj\Debug\DataHelper.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Form_Projects\DelosSantos_Sumamtive2\DataHelper\obj\Debug\DataHelper.dll
+D:\Documents\Visual Studio 2019\Form_Projects\DelosSantos_Sumamtive2\DataHelper\obj\Debug\DataHelper.pdb
+D:\Documents\Visual Studio 2019\Form_Projects\DelosSantos_Sumamtive2\DataHelper\obj\Debug\DataHelper.csprojAssemblyReference.cache
