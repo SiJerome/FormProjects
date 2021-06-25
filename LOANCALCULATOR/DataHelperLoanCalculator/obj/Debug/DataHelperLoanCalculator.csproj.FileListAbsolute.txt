@@ -1,0 +1,40 @@
+C:\Users\admin\source\repos\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.dll
+C:\Users\admin\source\repos\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.pdb
+C:\Users\admin\source\repos\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.dll
+C:\Users\admin\source\repos\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.pdb
+C:\Users\admin\source\repos\DataHelperLoanCalculator\bin\Debug\MasterFile.mdf
+C:\Users\admin\source\repos\DataHelperLoanCalculator\bin\Debug\MasterFile_log.ldf
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile.mdf
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile_log.ldf
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.dll
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.pdb
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.dll
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.pdb
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile.mdf
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile_log.ldf
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.dll
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.pdb
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.dll
+C:\Users\admin\source\repos\A1 - Submitted Files\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.pdb
+D:\Documents\Visual Studio 2019\Form_Projects\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile.mdf
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile_log.ldf
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.dll
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.pdb
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.dll
+C:\Users\admin\source\repos\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.pdb
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile.mdf
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\MasterFile_log.ldf
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.dll
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\bin\Debug\DataHelperLoanCalculator.pdb
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.dll
+D:\Documents\Visual Studio 2019\LOANCALCULATOR\DataHelperLoanCalculator\obj\Debug\DataHelperLoanCalculator.pdb
