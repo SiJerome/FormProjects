@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\bin\Debug\netstandard2.0\DataHelper.deps.json
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\bin\Debug\netstandard2.0\DataHelper.dll
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\bin\Debug\netstandard2.0\DataHelper.pdb
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\obj\Debug\netstandard2.0\DataHelper.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\obj\Debug\netstandard2.0\DataHelper.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\obj\Debug\netstandard2.0\DataHelper.AssemblyInfo.cs
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\obj\Debug\netstandard2.0\DataHelper.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\obj\Debug\netstandard2.0\DataHelper.dll
+D:\Documents\Visual Studio 2019\Form_Projects\ShopForm\DataHelper\obj\Debug\netstandard2.0\DataHelper.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwxbYVvmS2QQg4e3w6p0IuaiMDkWnCdxh7AjDIaiDi/o0adq4y0Vceb623bVNWisutOwVdEKDI4TMGb+u0iobA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Visual Studio 2019\\Form_Projects\\ShopForm\\DataHelper\\DataHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jerome\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jerome\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
